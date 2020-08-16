@@ -25,12 +25,19 @@
 </node>
 <node COLOR="#990000" CREATED="1597422672902" ID="ID_1645939704" MODIFIED="1597422683445" TEXT="Things I might Like to play with">
 <font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1597503334977" ID="ID_984324738" MODIFIED="1597503353109" TEXT="Get all Youtube Videos and put on hard disk">
+<icon BUILTIN="idea"/>
+</node>
 <node COLOR="#111111" CREATED="1597422685114" ID="ID_890419701" MODIFIED="1597422692358" TEXT="Using the collections counter">
 <node COLOR="#111111" CREATED="1597423621173" ID="ID_399953757" MODIFIED="1597423627801" TEXT="Needed to be installed separately"/>
 </node>
 <node COLOR="#111111" CREATED="1597422704313" ID="ID_822398754" MODIFIED="1597422712670" TEXT="Create dictionary and do something with it"/>
 <node COLOR="#111111" CREATED="1597422757146" ID="ID_543645626" MODIFIED="1597422781889" TEXT="Positive counts most negative positive_counts.most_common()"/>
 </node>
+</node>
+<node COLOR="#00b439" CREATED="1597503369874" ID="ID_183817089" MODIFIED="1597503382964" TEXT="Lesson7: Deep Learning with PyTorch">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 </node>
