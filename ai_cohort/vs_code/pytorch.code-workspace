@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.dataScience.jupyterServerURI": "http://localhost:8888/?token=2d1f750d86982dcd58f09b7fac212900e070d94b3e4d90d8"
+	}
+}
